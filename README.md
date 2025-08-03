@@ -12,11 +12,11 @@ Because it was discovered that someone did not comply with the AGPL protocol,all
 
 
 ## 🪪 仓库信息
-[![GitHub contributors](https://img.shields.io/github/contributors/ZeroAicy/AIDE-Plus)](https://github.com/ZeroAicy/AIDE-Plus/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ZeroAicy/AIDE-Plus)](https://github.com/ZeroAicy/AIDE-Plus/commits/)
-[![Repository Size](https://img.shields.io/github/repo-size/ZeroAicy/AIDE-Plus)](https://github.com/ZeroAicy/AIDE-Plus)
-[![GitHub Release](https://img.shields.io/github/v/release/ZeroAicy/AIDE-Plus)](https://github.com/ZeroAicy/AIDE-Plus/releases)
-[![Total downloads](https://img.shields.io/github/downloads/ZeroAicy/AIDE-Plus/total)](https://github.com/ZeroAicy/AIDE-Plus/releases)
+[![GitHub contributors](https://img.shields.io/github/contributors/AndroidIDE-CN/AIDE-Plus)](https://github.com/AndroidIDE-CN/AIDE-Plus/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/AndroidIDE-CN/AIDE-Plus)](https://github.com/AndroidIDE-CN/AIDE-Plus/commits/)
+[![Repository Size](https://img.shields.io/github/repo-size/AndroidIDE-CN/AIDE-Plus)](https://github.com/AndroidIDE-CN/AIDE-Plus)
+[![GitHub Release](https://img.shields.io/github/v/release/AndroidIDE-CN/AIDE-Plus)](https://github.com/AndroidIDE-CN/AIDE-Plus/releases)
+[![Total downloads](https://img.shields.io/github/downloads/AndroidIDE-CN/AIDE-Plus/total)](https://github.com/AndroidIDE-CN/AIDE-Plus/releases)
 
 ## 📝 已实现功能
 - [x] 构建服务优化和重写
@@ -49,9 +49,9 @@ Because it was discovered that someone did not comply with the AGPL protocol,all
 - [x] 修复软件内的git问题
 - [x] apk资源对齐
 - [x] Java项目支持安卓api
-- [x] Lambda实现 (ecj) [fbf450d](https://github.com/ZeroAicy/AIDE-Plus/commit/fbf450dba15ccaf51a7a6dd77db300d50551e98b)
-- [x] 支持cmake构建 [e702347](https://github.com/ZeroAicy/AIDE-Plus/commit/e702347df0c10b718df5aeb4798402802334e310)
-- [x] Xml补全修改逻辑 [0ecb637](https://github.com/ZeroAicy/AIDE-Plus/commit/f7960418b9326231d55726514f10385396e9e8b6)
+- [x] Lambda实现 (ecj) [fbf450d](https://github.com/AndroidIDE-CN/AIDE-Plus/commit/fbf450dba15ccaf51a7a6dd77db300d50551e98b)
+- [x] 支持cmake构建 [e702347](https://github.com/AndroidIDE-CN/AIDE-Plus/commit/e702347df0c10b718df5aeb4798402802334e310)
+- [x] Xml补全修改逻辑 [0ecb637](https://github.com/AndroidIDE-CN/AIDE-Plus/commit/f7960418b9326231d55726514f10385396e9e8b6)
 - [x] 支持 exclude (exclude group: "xxx", module: "xxx")
 
 ### 🏗️ 计划实现
