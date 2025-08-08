@@ -1,15 +1,48 @@
 ![AIDEPlus](https://socialify.git.ci/AndroidIDE-CN/AIDE-Plus/image?description=1&font=KoHo&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FAndroidIDE-CN%2FAIDE-Plus%2Frefs%2Fheads%2F2.3%2F.idea%2Ficon.svg&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Auto)
 
+# 重要公告：仓库闭源说明
+
+我们痛心地发现，部分个人/组织在未遵守 AGPLv3 开源协议的情况下使用了本仓库代码，并**通过虚拟机保护(VMP)等技术手段加固DEX文件**以规避源代码公开义务。  
+此行为严重违反了开源精神与协议法律约束，伤害了社区信任。
+
+作者创建本项目的初心，是希望构建一个**自由开放**的环境：
+- 允许所有开发者自由查看、修改和学习代码
+- 通过开源协作推动项目创新
+- 践行 AGPLv3 协议要求的"开放共享"原则
+
+鉴于持续发生的**违规使用**和**使用VMP等技术规避协议**的行为，我们不得不做出艰难决定：
+1. **即刻闭源**：本仓库不再公开源代码
+2. **仅发布版本**：仓库仅用于发布编译后的APK
+
+任何基于**历史 AGPL 版本**的衍生作品，**必须**：
+1. 完全公开修改后的源代码
+2. 明确声明代码来源
+3. 保持相同的 AGPLv3 协议
+
+---
+
+# Important Notice: Repository Going Closed-Source
+
+We regret to discover that certain individuals/organizations have used this repository's code in violation of the AGPLv3 license, **employing Virtual Machine Protection (VMP) and other advanced techniques to fortify DEXes** and circumvent source code disclosure obligations.  
+This constitutes a severe breach of open-source principles and legal agreements, damaging community trust.
+
+The author's vision for this project was to create a **free and open** environment:
+- Allow all developers to freely view, modify, and learn from the code
+- Drive innovation through open-source collaboration
+- Uphold the "share-alike" principle required by AGPLv3
+
+Due to persistent **license violations** and **technical circumvention using VMP**, we must make this difficult decision:
+1. **Immediate Closed-Sourcing**: Source code will no longer be publicly available
+2. **Release-Only Repository**: This repo will only host compiled APK releases
+
+Any derivative works based on **historical AGPL versions MUST**:
+1. Fully disclose modified source code
+2. Clearly attribute the original codebase
+3. Maintain the same AGPLv3 license
+
+---
+
 # AIDE-Plus
-因为懂的都懂的原因，现将AIDE Plus源码闭源，不在开源，这个仓库以后只用来发布新版本。
-Because of the reason that everyone understands, the AIDE Plus source code is now closed source, not open source, and this repository will only be used to release new versions in the future.
-
-# 补充
-因为发现有人不遵守AGPL协议，因此所有作者一致决定闭源。我当初也只是让所有对AIDE有兴趣的人可以定制自己的AIDE，但是使用本项目源码，却不遵守AGPL协议且使用加壳技术，让我放弃分享了。
-不会影响后续版本的推送。
-
-Because it was discovered that someone did not comply with the AGPL protocol,all authors have unanimously decided to close the source code. My original intention was to allow anyone interested in AIDE to customize their own version, but some users utilized this project's source code without adhering to the AGPL license and even packed the software with protective shells. This has led me to abandon further code sharing. This decision will not affect subsequent version updates.
-
 
 ## 🪪 仓库信息
 [![GitHub contributors](https://img.shields.io/github/contributors/AndroidIDE-CN/AIDE-Plus)](https://github.com/AndroidIDE-CN/AIDE-Plus/graphs/contributors)
